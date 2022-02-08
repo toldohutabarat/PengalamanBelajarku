@@ -22,6 +22,13 @@ Hari ini adalah hari kedua saya dikelas GIT dan GITHUB Dicoding.
 - Melihat History
 - Mempublish hasil Repo yang telah dibuat
 
-==COBA COBA==
+COBA COBA
+==
 This is the first line <br>
 this is the second line
+
+**HELLO WORLD**
+# HELLO WORLD
+* hello world 
+
+Belajar di **Dicoding** asyikkk
