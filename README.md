@@ -22,6 +22,12 @@ Hari ini adalah hari kedua saya dikelas GIT dan GITHUB Dicoding.
 - Melihat History
 - Mempublish hasil Repo yang telah dibuat
 
+8 Januari 2022 (*Progress 100%*)
+==
+Malam ini hari kedua saya dikelas GIT dan GITHUB Dicoding dan kelas saya sudah selesai.
+
+Belajar di **Dicoding** asyikkk, ada sertifikatnya juga lohhhh...
+
 COBA COBA
 ==
 This is the first line <br>
