@@ -21,3 +21,7 @@ Hari ini adalah hari kedua saya dikelas GIT dan GITHUB Dicoding.
 - Cara membuat README.md menggunakan format *markdown*
 - Melihat History
 - Mempublish hasil Repo yang telah dibuat
+
+==COBA COBA==
+This is the first line <br>
+this is the second line
